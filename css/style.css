@@ -1,0 +1,24 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: #FABC3C;
+}
+
+nav {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.lead {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
